@@ -37,7 +37,7 @@ def extract_scrapping():
     page = 1
 
     while True:
-        if page == 2:
+        if page == 21:
             break
         try:
             container = WebDriverWait(driver, 5).until(EC.presence_of_element_located((By.CLASS_NAME, 'books')))
