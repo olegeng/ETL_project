@@ -1,0 +1,7 @@
+2024-01-29 10:22:29 --- Program start
+2024-01-29 10:22:29 --- Start scrapping
+2024-01-29 10:22:57 --- The end of scrapping
+2024-01-29 10:23:02 --- Transforming started
+2024-01-29 10:23:02 --- Transforming ended
+2024-01-29 10:23:02 --- Loading to .csv started
+2024-01-29 10:23:02 --- Loading to .csv is done
